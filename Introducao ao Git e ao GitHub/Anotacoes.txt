@@ -2,3 +2,39 @@ Link para download para o Git: https://git-scm.com/downloads
 
 O GitBash é um terminal estendido para otimizar o uso do Git.
 
+Git é uma ferramenta. Sistema de versionamento de códigos livre. Criado por Linus Torvadls.
+
+Ele ajuda a ciar e monitorar diferentes versões de código.
+
+GitHub é da Microsoft. Repositório online, aberto. O Git e o GitHub são parecidos, mas são coisas diferentes.
+
+O git não é uma interface gráfica, mas tem programas que fazem isso.
+
+Comandos:
+
+Cls – limpa a tela. No git só funcionou o clear
+Del deleta apenas arqivos e não pastas
+tecla tab – completa o que esta sendo escrito
+cd – navegar entre as pastas
+dir -listar as pastas (retorna uma lsita com o conteudo contido naquele repositorio especifico)
+mkdir – criar pastas
+
+O que faz na máquina, não produz na repositório remoto. A não ser que você coloque.
+
+Os arquivos vão ficar transitando na working directory e staging área.
+
+Comando: git status (vai dizer se o arquivo está staged, ontracked, modificed
+
+mv (nome da pasta) – mover pasta
+
+A encriptação gera conjunto de caractere identificador de 40 dígitos.
+
+Se modificou o texto muda a chave, se “voltar ao formato original” do texto a chave volta a ser como era antes da mudança.
+
+Exemplo: 
+
+36cbdc4107e07f684a2cfcb1249a0474a7578c2b
+
+1c4217d7eb01fa3c0f1c9381899e293e8bc1cdca
+
+36cbdc4107e07f684a2cfcb1249a0474a7578c2b
