@@ -93,7 +93,7 @@
 
 #### Músicas para adicionar a playlist
 
-- Love Is A Love Song - Amy Winehouse  
+- Love Is A Losing Game - Amy Winehouse  
 - October Song - Amy Winehouse  
 - So Hot - Wonder Girls  
 - LALISA - LISA Ice Cream - Selena Gomes and BLACKPINK  
